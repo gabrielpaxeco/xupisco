@@ -1,0 +1,24 @@
+.historia{
+
+    margin-top: 16rem;
+}
+
+.historia p{
+    margin-top: 4rem;
+    background-color: darkgoldenrod;
+    padding: 5rem;
+    max-width: 70vh;
+    margin-left: 39rem;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.historia h1{
+    background-color: darkgoldenrod;
+    max-width: 70vh;
+    margin-left: 39rem;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2rem;
+}

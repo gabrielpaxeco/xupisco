@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family= Roboto: wght @300;500;700 & display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: darkgreen;
+}
+
+main{
+    background-color: darkgoldenrod;
+    display: flex;
+}
+
+.pcc a{
+    margin-right: 5rem;
+
+
+
+}
+
+.img img{
+    max-width: 15vh;
+    margin-inline: 1rem;
+    margin-block: 1rem;
+    margin-right: 20rem;
+}
+
+.baner{
+    margin-left: 28rem;
+    margin-top: 6rem;
+    height: 37rem;
+}
+
+.img h1 {
+    margin-left: 11rem;
+    margin-top: -6rem;
+    margin-bottom: 3rem;
+    font-size: 3rem;
+}
+
+.pcc p{
+    background-color: darkgreen;
+    padding: 1.5rem;
+    text-align: left;
+    font-size: 1.2rem;
+    color: darkgoldenrod;
+    font-weight: 700;
+    border-radius: 11px;
+
+}
+
+.pcc button{
+    margin-top: 2rem;
+    border-radius: 15px;
+}
+
+.pcc button:nth-last-of-type(1){
+    margin-left: 3rem;
+}
+
